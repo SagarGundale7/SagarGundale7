@@ -12,4 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sagar-gundale-3863a61a5/" target="black"><img align="center"
 src="https://png.pngtree.com/element_our/md/20180626/md_5b321c9756fc6.jpg" height="30" width="40" /></a>
-## Language and Tools
+
+<h3 align="left">Language and Tools:</h3>
+<a href="https://www.cprogramming.com/" target="black"><img align="center"
+src="https://img.icons8.com/color/480/c-programming.png" height="30" width="40" /></a>
