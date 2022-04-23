@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="coding" width="200" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 <h3 align="left">Connect with me:</h3>
 
-<h3 align="center">A passionate Java developer</h3>
+<h3 align="center">A passionate Programmer</h3>
 
 - 🔭 I’m currently persuing on **Master of Computer Applications**
 
