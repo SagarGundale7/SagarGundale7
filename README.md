@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/sagar-gundale-3863a61a5/" target="black"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+<a href="https://www.linkedin.com/in/sagar-gundale-3863a61a5/" target="black"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="40" /></a>
   ## Language and Tools
