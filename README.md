@@ -17,5 +17,4 @@ src="https://png.pngtree.com/element_our/md/20180626/md_5b321c9756fc6.jpg" heigh
 <a href="https://www.cprogramming.com/" target="black"><img align="center"
 src="https://img.icons8.com/color/480/c-programming.png" height="30" width="40" /></a>
 
-<a href="https://www.cprogramming.com/" target="black"><img align="center"
-src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height="30" width="40" /></a>
+
