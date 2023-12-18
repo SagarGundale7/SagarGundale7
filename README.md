@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently persuing on **Master of Computer Applications**
 
-- 🌱 I’m currently learning **Spring, Javascript, Rest Api**
+- 🌱 I’m currently learning core java, and javascript.
 
 - 🤝 I’m looking for help with **Java developer**
 
